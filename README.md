@@ -50,7 +50,8 @@ heredity-ai/
 ├── data/                 # CSV files containing family data
 │   ├── family0.csv
 │   ├── family1.csv
-│   └── ...
+│└── ...
+├── requirements.txt
 ├── LICENSE               # MIT License
 └── README.md             # Documentation (this file)
 ```
