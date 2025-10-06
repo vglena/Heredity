@@ -1,0 +1,3 @@
+Python 3.8 or higher
+No third-party libraries required, though numpy or pandas can be used for additional analysis (optional)
+
